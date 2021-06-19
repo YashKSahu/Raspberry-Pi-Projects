@@ -2,6 +2,13 @@
 # Raspberry Pi Projects
 A series of rpi projects with full explanation, circuit diagrams and real working images.
 
+## Contents:
+- [Required Hardware](#required-hardware)
+- [Required Hardware Images](#)
+- [Accessories](#accessories)
+- [Diagrams](#)
+- [Raspbian OS](#)
+
 ## Required Hardware:
 ```sh
 0. Raspberry Pi Zero W
@@ -25,6 +32,11 @@ A series of rpi projects with full explanation, circuit diagrams and real workin
 ## Diagrams:
 ![p4](Images/rpi_labelled.png) 
 ![p5](Images/gpio.png) 
+
+---
+
+## Raspbian OS
+![p6](Images/raspbian.jpg)
 
 ---
 ---
