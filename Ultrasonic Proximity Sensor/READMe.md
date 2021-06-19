@@ -37,3 +37,9 @@ low. Here is a diagram to show how it actually happens:
 
 ## Setup Connection
 ![p2](Images/us_circuit.png)
+
+## Run the Code in Rasbian OS
+![p4](Images/out.png)
+
+---
+---
