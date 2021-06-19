@@ -1,4 +1,4 @@
-![](Images/rpi_logo2.png)
+![p1](Images/rpi_logo2.png)
 # Raspberry Pi Projects
 A series of rpi projects with full explanation, circuit diagrams and real working images.
 
@@ -14,5 +14,5 @@ A series of rpi projects with full explanation, circuit diagrams and real workin
 ---
 
 ## Required Hardware Images:
-![](Images/Raspberry_Pi_Zero_W.png)
+![p2](Images/Raspberry_Pi_Zero_W.png)
 
