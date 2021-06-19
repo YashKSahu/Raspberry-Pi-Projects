@@ -30,3 +30,10 @@ the ECHO is set to high. Once it receives the echo signal back, the ECHO pin is 
 low. Here is a diagram to show how it actually happens:
 
 ![p1](Images/timing.png)
+
+![p3](Images/us.png)
+
+---
+
+## Setup Connection
+![p2](Images/us_circuit.png)
