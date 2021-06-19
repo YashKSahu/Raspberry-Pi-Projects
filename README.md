@@ -1,4 +1,4 @@
-![](Images/rpi_logo.png)
+![](Images/rpi_logo2.png)
 # Raspberry Pi Projects
 A series of rpi projects with full explanation, circuit diagrams and real working images.
 
