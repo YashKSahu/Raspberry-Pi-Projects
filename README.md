@@ -23,7 +23,8 @@ A series of rpi projects with full explanation, circuit diagrams and real workin
 ---
 
 ## Diagrams:
-![p4](Images/rpi_labelled.png) ![p5](Images/pinout-.jpg) 
+![p4](Images/rpi_labelled.png) 
+![p5](Images/gpio.jpg) 
 
 ---
 ---
