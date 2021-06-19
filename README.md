@@ -1,4 +1,4 @@
-![rpi-logo](Images/rpi_logo.png)
+![rpi-logo](Images/rpi_logo.png = 200x200)
 # Raspberry Pi Projects
 A series of rpi projects with full explanation, circuit diagrams and real working images.
 
