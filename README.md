@@ -1,4 +1,5 @@
 ![rpi-logo](Images/rpi_logo.png = 200x200)
+<img src="Images/rpi_logo.png" width="48">
 # Raspberry Pi Projects
 A series of rpi projects with full explanation, circuit diagrams and real working images.
 
