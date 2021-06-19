@@ -14,5 +14,5 @@ A series of rpi projects with full explanation, circuit diagrams and real workin
 ---
 
 ## Required Hardware Images:
-![p2](Images/Raspberry_Pi_Zero_W.png)
+![p2](Images/1.png)
 
