@@ -16,3 +16,14 @@ A series of rpi projects with full explanation, circuit diagrams and real workin
 ## Required Hardware Images:
 ![p2](Images/1.png)
 
+---
+## Accessories:
+![p3](Images/3.png)
+
+---
+
+## Diagrams:
+![p4](Images/rpi_labelled.png) ![p5](Images/pinout-.jpg) 
+
+---
+---
