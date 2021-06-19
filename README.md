@@ -4,10 +4,10 @@ A series of rpi projects with full explanation, circuit diagrams and real workin
 
 ## Contents:
 - [Required Hardware](#required-hardware)
-- [Required Hardware Images](#)
+- [Required Hardware Images](#required-hardware-images:)
 - [Accessories](#accessories)
-- [Diagrams](#)
-- [Raspbian OS](#)
+- [Diagrams](#diagrams)
+- [Raspbian OS](#raspbian-os)
 
 ## Required Hardware:
 ```sh
